@@ -1,7 +1,7 @@
 const TYPES = {
-    TradeController: Symbol.for('TradeController'),
-    TradeService: Symbol.for('TradeService'),
-    StockController: Symbol.for('StockController'),
+    DiscoveryStubClient: Symbol.for('DiscoveryStubClient'),
+    FlightService: Symbol.for('FlightService'),
+    FlightsController: Symbol.for('FlightsController'),
 }
 
 export default TYPES;
